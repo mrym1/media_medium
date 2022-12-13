@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/media_medium/static/css/main.639303f2.css",
+    "main.js": "/media_medium/static/js/main.c6908087.js",
+    "index.html": "/media_medium/index.html",
+    "main.639303f2.css.map": "/media_medium/static/css/main.639303f2.css.map",
+    "main.c6908087.js.map": "/media_medium/static/js/main.c6908087.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.639303f2.css",
+    "static/js/main.c6908087.js"
+  ]
+}
